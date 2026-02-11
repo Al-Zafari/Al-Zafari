@@ -2,13 +2,11 @@
 
 ## 🚀 About Me
 - 🔭 My research focuses on **dark matter phenomenological models** and their implications for **large-scale structure**, with an emphasis on developing frameworks to evaluate the **parameter space of viable candidates** under constraints from **direct detection, indirect detection, and collider experiments (LHC)**.  
-- 🌌 Aiming to bridge **dark matter phenomenology** with **gravitational waves** as potential messengers from the **dark sector** of the universe.  
 - 🧠 I enjoy working at the intersection of **theory and astrophysical observation**, especially at the exciting edges of **quantum field theory, cosmology, gravity**, and their **observational consequences**.  
 
 ## 🎓 Academic Background
 - 🎓 **Bachelor of Science in Physics** — *Shahid Beheshti University*  
 - 🎓 **Master of Science in Particle Physics and Field Theory** — *Shahid Beheshti University*  
-- 🎓 **PhD Candidate in Physics** — *Sharif University of Technology*  
 
 ## 🎯 Hobbies and Interests
 - 🧩 Passionate about **escape rooms and puzzle-solving**, as I enjoy challenges that spark creativity and excitement.  
